@@ -1,0 +1,6 @@
+[submodule "spring5-di-concepts"]
+	path = spring5-di-concepts
+	url = https://github.com/nitinkc/spring5-di-concepts
+[submodule "spring5-pet-clinic-nitin"]
+	path = spring5-pet-clinic-nitin
+	url = https://github.com/nitinkc/spring5-pet-clinic-nitin.git
