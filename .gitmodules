@@ -4,3 +4,9 @@
 [submodule "spring5-pet-clinic-nitin"]
 	path = spring5-pet-clinic-nitin
 	url = https://github.com/nitinkc/spring5-pet-clinic-nitin.git
+[submodule "spring-5-introduction"]
+	path = spring-5-introduction
+	url = https://github.com/nitinkc/spring-5-introduction.git
+[submodule "spring-data-jpa"]
+	path = spring-data-jpa
+	url = https://github.com/nitinkc/spring-data-jpa.git
