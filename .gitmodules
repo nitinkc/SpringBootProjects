@@ -14,3 +14,6 @@
 [submodule "spring-5-introduction"]
 	path = spring-5-introduction
 	url = https://github.com/nitinkc/spring-5-introduction.git
+[submodule "spring-5-restful-web"]
+	path = spring-5-restful-web
+	url = https://github.com/nitinkc/spring-5-restful-web.git
