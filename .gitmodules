@@ -11,3 +11,6 @@
 	path = springboot-thymeleaf-pet-clinic
 	
 	url = https://github.com/nitinkc/springboot-thymeleaf-pet-clinic
+[submodule "spring-5-introduction"]
+	path = spring-5-introduction
+	url = https://github.com/nitinkc/spring-5-introduction.git
