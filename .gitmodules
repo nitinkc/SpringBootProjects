@@ -10,3 +10,6 @@
 [submodule "spring-5-restful-web"]
 	path = spring-5-restful-web
 	url = https://github.com/nitinkc/spring-5-restful-web.git
+[submodule "spring-data-jpa"]
+	path = spring-data-jpa
+	url = https://github.com/nitinkc/spring-data-jpa.git
