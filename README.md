@@ -12,3 +12,7 @@ Projects
 2. spring5-di-concepts - Spring Dependency Injection Basics
 3. spring5-data-jpa -
 4. spring5-thymeleaf-pet-clinic
+
+Add new projects using the following command
+
+git submodule add https://github.com/nitinkc/spring-data-jpa.git
