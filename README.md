@@ -23,3 +23,4 @@ git submodule add https://github.com/nitinkc/spring-data-jpa.git
 * Delete the entry from .gitmodules file
 * delete the entry from .git/config file
 * delete the project folder from .git/modules/<git-project-name>
+* Commit and push the changes on github
