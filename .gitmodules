@@ -13,3 +13,6 @@
 [submodule "spring-data-jpa"]
 	path = spring-data-jpa
 	url = https://github.com/nitinkc/spring-data-jpa.git
+[submodule "recepie-spring-data"]
+	path = recepie-spring-data
+	url = https://github.com/nitinkc/recepie-spring-data.git
