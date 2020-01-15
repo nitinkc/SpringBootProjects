@@ -16,3 +16,6 @@
 [submodule "recepie-spring-data"]
 	path = recepie-spring-data
 	url = https://github.com/nitinkc/recepie-spring-data.git
+[submodule "messenger-spring-boot"]
+	path = messenger-spring-boot
+	url = https://github.com/nitinkc/messenger-spring-boot.git
