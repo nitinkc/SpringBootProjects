@@ -19,3 +19,6 @@
 [submodule "messenger-spring-boot"]
 	path = messenger-spring-boot
 	url = https://github.com/nitinkc/messenger-spring-boot.git
+[submodule "springboot-hibernate"]
+	path = springboot-hibernate
+	url = https://github.com/nitinkc/springboot-hibernate.git
