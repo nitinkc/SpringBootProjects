@@ -22,3 +22,6 @@
 [submodule "springboot-hibernate"]
 	path = springboot-hibernate
 	url = https://github.com/nitinkc/springboot-hibernate.git
+[submodule "Spring-Transactions"]
+	path = Spring-Transactions
+	url = https://github.com/nitinkc/Spring-Transactions.git
