@@ -28,3 +28,6 @@
 [submodule "Spring-Batch"]
 	path = Spring-Batch
 	url = https://github.com/nitinkc/Spring-Batch.git
+[submodule "spring-properties-and-build"]
+	path = spring-properties-and-build
+	url = https://github.com/nitinkc/spring-properties-and-build.git
