@@ -25,3 +25,6 @@
 [submodule "Spring-Transactions"]
 	path = Spring-Transactions
 	url = https://github.com/nitinkc/Spring-Transactions.git
+[submodule "Spring-Batch"]
+	path = Spring-Batch
+	url = https://github.com/nitinkc/Spring-Batch.git
