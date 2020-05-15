@@ -31,6 +31,3 @@
 [submodule "spring-properties-and-build"]
 	path = spring-properties-and-build
 	url = https://github.com/nitinkc/spring-properties-and-build.git
-[submodule "spring-security"]
-	path = spring-security
-	url = https://github.com/nitinkc/spring-security.git
