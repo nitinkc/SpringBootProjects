@@ -40,3 +40,6 @@
 [submodule "spring-non-web-datafix"]
 	path = spring-non-web-datafix
 	url = https://github.com/nitinkc/spring-non-web-datafix.git
+[submodule "liquibase-with-sprintBoot"]
+	path = liquibase-with-sprintBoot
+	url = https://github.com/nitinkc/liquibase-with-sprintBoot.git
