@@ -43,3 +43,6 @@
 [submodule "liquibase-with-sprintBoot"]
 	path = liquibase-with-sprintBoot
 	url = https://github.com/nitinkc/liquibase-with-sprintBoot.git
+[submodule "Mockito-Junit-Learning"]
+	path = Mockito-Junit-Learning
+	url = https://github.com/nitinkc/Mockito-Junit-Learning.git
