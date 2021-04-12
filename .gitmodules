@@ -46,3 +46,6 @@
 [submodule "Mockito-Junit-Learning"]
 	path = Mockito-Junit-Learning
 	url = https://github.com/nitinkc/Mockito-Junit-Learning.git
+[submodule "springboot-spanner-db"]
+	path = springboot-spanner-db
+	url = https://github.com/nitinkc/springboot-spanner-db.git
