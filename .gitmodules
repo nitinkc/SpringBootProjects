@@ -49,3 +49,6 @@
 [submodule "springboot-spanner-db"]
 	path = springboot-spanner-db
 	url = https://github.com/nitinkc/springboot-spanner-db.git
+[submodule "SpringBoot-GlobalExceptionHandling"]
+	path = SpringBoot-GlobalExceptionHandling
+	url = https://github.com/nitinkc/SpringBoot-GlobalExceptionHandling.git
