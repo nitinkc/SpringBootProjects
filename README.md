@@ -1,6 +1,9 @@
 # Spring 5/Spring Boot Project Examples
 
-
+## Clone all projects
+```
+git clone --recurse-submodules https://github.com/nitinkc/SpringBootProjects.git
+```
 
 ## Update all the submodles
 ```
