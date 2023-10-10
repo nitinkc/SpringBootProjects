@@ -52,3 +52,6 @@
 [submodule "SpringBoot-GlobalExceptionHandling"]
 	path = SpringBoot-GlobalExceptionHandling
 	url = https://github.com/nitinkc/SpringBoot-GlobalExceptionHandling.git
+[submodule "spring-HTTPClients-4-remoteServices"]
+	path = spring-HTTPClients-4-remoteServices
+	url = https://github.com/nitinkc/spring-HTTPClients-4-remoteServices.git
