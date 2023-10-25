@@ -55,3 +55,6 @@
 [submodule "spring-HTTPClients-4-remoteServices"]
 	path = spring-HTTPClients-4-remoteServices
 	url = https://github.com/nitinkc/spring-HTTPClients-4-remoteServices.git
+[submodule "kafka-consumer"]
+	path = kafka-consumer
+	url = https://github.com/nitinkc/kafka-consumer.git
