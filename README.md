@@ -2,7 +2,7 @@
 
 ## Clone all projects
 ```
-git clone --recurse-submodules https://github.com/nitinkc/SpringBootProjects.git
+git clone --recurse-submodules -j8 https://github.com/nitinkc/SpringBootProjects.git
 ```
 
 ## Update all the submodles

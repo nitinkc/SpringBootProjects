@@ -31,9 +31,6 @@
 [submodule "spring-security"]
 	path = spring-security
 	url = https://github.com/nitinkc/spring-security.git
-[submodule "SpringBootReference"]
-	path = SpringBootReference
-	url = https://github.com/nitinkc/SpringBootReference.git
 [submodule "spring-non-web-datafix"]
 	path = spring-non-web-datafix
 	url = https://github.com/nitinkc/spring-non-web-datafix.git
