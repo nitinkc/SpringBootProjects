@@ -4,9 +4,9 @@
 [submodule "springboot-thymeleaf-pet-clinic"]
 	path = springboot-thymeleaf-pet-clinic
 	url = https://github.com/nitinkc/springboot-thymeleaf-pet-clinic
-[submodule "spring-data-jpa"]
+[submodule "spring-data-jpa-hibernate"]
 	path = spring-data-jpa
-	url = https://github.com/nitinkc/spring-data-jpa.git
+	url = https://github.com/nitinkc/spring-data-jpa-hibernate.git
 [submodule "recepie-spring-data"]
 	path = recepie-spring-data
 	url = https://github.com/nitinkc/recepie-spring-data.git
