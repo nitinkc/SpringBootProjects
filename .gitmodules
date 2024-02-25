@@ -52,3 +52,6 @@
 [submodule "kafka-producer"]
 	path = kafka-producer
 	url = https://github.com/nitinkc/kafka-producer.git
+[submodule "SpringBoot-reference"]
+	path = SpringBoot-reference
+	url = https://github.com/nitinkc/SpringBoot-reference.git
