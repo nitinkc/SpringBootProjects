@@ -55,3 +55,6 @@
 [submodule "SpringBoot-reference"]
 	path = SpringBoot-reference
 	url = https://github.com/nitinkc/SpringBoot-reference.git
+[submodule "data-supplier-service"]
+	path = data-supplier-service
+	url = https://github.com/nitinkc/data-supplier-service.git
