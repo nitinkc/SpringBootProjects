@@ -58,3 +58,9 @@
 [submodule "data-supplier-service"]
 	path = data-supplier-service
 	url = https://github.com/nitinkc/data-supplier-service.git
+[submodule "JVM-memory-issues"]
+	path = JVM-memory-issues
+	url = https://github.com/nitinkc/JVM-memory-issues.git
+[submodule "JMH-Benchmarking"]
+	path = JMH-Benchmarking
+	url = https://github.com/nitinkc/JMH-Benchmarking.git
