@@ -64,3 +64,6 @@
 [submodule "JMH-Benchmarking"]
 	path = JMH-Benchmarking
 	url = https://github.com/nitinkc/JMH-Benchmarking.git
+[submodule "springboot-caffeine-cachine"]
+	path = springboot-caffeine-cachine
+	url = https://github.com/nitinkc/springboot-caffeine-cachine
