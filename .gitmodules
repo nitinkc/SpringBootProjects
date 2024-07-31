@@ -67,3 +67,6 @@
 [submodule "springboot-caffeine-cachine"]
 	path = springboot-caffeine-cachine
 	url = https://github.com/nitinkc/springboot-caffeine-cachine
+[submodule "springboot-virtualthreads"]
+	path = springboot-virtualthreads
+	url = https://github.com/nitinkc/springboot-virtualthreads.git
