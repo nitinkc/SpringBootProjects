@@ -73,3 +73,9 @@
 [submodule "springboot-nosql"]
 	path = springboot-nosql
 	url = https://github.com/nitinkc/springboot-nosql.git
+[submodule "springboot-webhook"]
+	path = springboot-webhook
+	url = https://github.com/nitinkc/springboot-webhook.git
+[submodule "springboot-lifecycle"]
+	path = springboot-lifecycle
+	url = https://github.com/nitinkc/springboot-lifecycle.git
