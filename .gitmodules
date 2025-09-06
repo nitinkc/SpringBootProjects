@@ -79,3 +79,6 @@
 [submodule "springboot-lifecycle"]
 	path = springboot-lifecycle
 	url = https://github.com/nitinkc/springboot-lifecycle.git
+[submodule "springboot-jBehave-BDD"]
+	path = springboot-jBehave-BDD
+	url = https://github.com/nitinkc/springboot-jBehave-BDD.git
