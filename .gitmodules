@@ -85,3 +85,6 @@
 [submodule "gRPCClient"]
 	path = gRPCClient
 	url = https://github.com/nitinkc/gRPCClient.git
+[submodule "SpringBoot-WebSocketLearning"]
+	path = SpringBoot-WebSocketLearning
+	url = https://github.com/nitinkc/SpringBoot-WebSocketLearning.git
