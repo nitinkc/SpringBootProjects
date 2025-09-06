@@ -82,3 +82,6 @@
 [submodule "springboot-jBehave-BDD"]
 	path = springboot-jBehave-BDD
 	url = https://github.com/nitinkc/springboot-jBehave-BDD.git
+[submodule "gRPCClient"]
+	path = gRPCClient
+	url = https://github.com/nitinkc/gRPCClient.git
