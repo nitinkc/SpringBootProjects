@@ -88,3 +88,6 @@
 [submodule "SpringBoot-WebSocketLearning"]
 	path = SpringBoot-WebSocketLearning
 	url = https://github.com/nitinkc/SpringBoot-WebSocketLearning.git
+[submodule "CassandraSpringBootLearning"]
+	path = CassandraSpringBootLearning
+	url = https://github.com/nitinkc/CassandraSpringBootLearning.git
